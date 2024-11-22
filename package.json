@@ -1,0 +1,13 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A simple calculator application",
+  "main": "CalculatorService.js",  
+  "scripts": {
+    "start": "node CalculatorService.js"  
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",  
+    "sync-request": "^6.1.0"  
+  }
+}
